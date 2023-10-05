@@ -44,6 +44,7 @@ body{
 }
 
 .link-bio h1{
+    display: flex;
     font-size: 3rem;
     align-items: center;
     color:  #DDAA9F;
